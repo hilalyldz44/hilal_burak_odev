@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\bin\Debug\BurakOdevProje.exe.config
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\bin\Debug\BurakOdevProje.exe
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\bin\Debug\BurakOdevProje.pdb
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.Form1.resources
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.Properties.Resources.resources
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.exe
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.pdb
+C:\Users\Asus\Desktop\BurakOdevProje\BurakOdevProje\BurakOdevProje\obj\Debug\BurakOdevProje.girisFormu.resources
